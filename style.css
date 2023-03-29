@@ -1,0 +1,56 @@
+
+.coolTitle {
+    text-align: center;
+    font-family: fantasy, fantasy fantasy;
+    font-size: 40px;
+    transform: skewY(-10deg);
+    letter-spacing: 4px;
+    word-spacing: -8px;
+    color: tomato;
+    text-shadow: 
+      -1px -1px 0 firebrick,
+      -2px -2px 0 firebrick,
+      -3px -3px 0 firebrick,
+      -4px -4px 0 firebrick,
+      -5px -5px 0 firebrick,
+      -6px -6px 0 firebrick,
+      -7px -7px 0 firebrick,
+      -8px -8px 0 firebrick,
+      -30px 20px 40px dimgrey;
+  }
+  
+  .done {
+    text-decoration: line-through;
+  }
+
+  h1{
+    font-family: fantasy;
+  }
+
+  input {
+    background-color: aqua;
+    color: aqua;
+    font-family: fantasy;
+    box-shadow: 10px 5px 5px black;
+    
+  }
+
+  button {
+    font-family: fantasy;
+    background-color: aqua;
+    box-shadow: 10px 5px 5px black;
+    
+  }
+
+  body {
+    font: "fantasy", sans-serif;
+    color: rgba(0, 0, 0, 5);
+    color: rgba(0, 0, 0, 5);
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    top: 15%;
+    background: linear-gradient(to right, rgb(199, 113, 199), rgb(105, 105, 227));
+    
+  }
+
+  
